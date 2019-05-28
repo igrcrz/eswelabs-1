@@ -1,0 +1,15 @@
+Topic: Metro Manila Transportation and Traffic Study
+Goal: Be able to suggest optimization for public transportation in Metro Manila. Also assess if planned projects like railway extensions, and proposed subway will have significant impact towards reduction of congestion
+
+Related Topics: Traffic, Urban/City Planning, Public Planning, Policy, Route Optimization
+Related Gov't Bodies: Department of Transportation (DOTr), Land Transportation Franchising and Regulatory Board (LTFRB), Metro Manila Development Authority (MMDA)
+
+Data Sets:
+From 'data.gov.ph'
+  1. Light Rail Transit 1 (LRT1) Monthly Passenger Data (https://data.gov.ph/dataset/land-rail-transit-1-lrt-1-monthly-passenger-traffic)
+  2. Philippine National Railway (PNR) Monthly Passenger Traffic per Station (Philippine National Railways (PNR) Monthly Passenger Traffic per Station)
+  3. Metro Rail Transit 3 (MRT3) Monthly Passenger Data (https://data.gov.ph/dataset/metro-rail-transit-line-3-passenger-traffic-monthly)
+  4. LRT1 Peak Load Factor https://data.gov.ph/dataset/lrt-1-peak-hour-load-factor
+  
+Can potentially scrape:
+  1. PUV Routes (Public Utility Vehicle, FX, Jeep, etc. Helps with last mile transport of passengers) via Transport Sites like Sakay.ph
